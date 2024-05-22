@@ -1,0 +1,19 @@
+* {
+  font-family: 'Brush Script MT', cursive;
+}
+
+.heading h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.containerIndex p {
+    font-size: 20px;
+    color: black;
+
+}
+
+.containerIndex img {
+    padding: 0;
+    margin: auto;
+}
